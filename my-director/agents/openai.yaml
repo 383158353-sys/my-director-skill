@@ -1,0 +1,4 @@
+interface:
+  display_name: "我的导演"
+  short_description: "严格遵循口述剧情逐场拆镜，主动锁定人物站位、视线、道具和角色意图"
+  default_prompt: "用 $my-director 按我的剧情整理这一场分镜，先检查空间关系，每镜写成完整一段。"
