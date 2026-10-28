@@ -1,0 +1,4 @@
+interface:
+  display_name: "分镜与表演风格延展"
+  short_description: "独立选择瞬息全宇宙分镜与伍迪艾伦表演，组合应用并保持剧情连续性"
+  default_prompt: "使用 $my-director-style，在基础导演规则上按要求选择分镜与表演模块，为这一场设计分镜。"
